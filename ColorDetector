@@ -1,3 +1,5 @@
+    return rgb_colors
+
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import numpy as np
